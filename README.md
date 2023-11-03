@@ -10,12 +10,12 @@ $<code> pkg install -y python ndk-sysroot clang make \ </code><br>
 $<code> libjpeg-turbo </code><br>
 $<code> python3 -m pip install --upgrade Pillow --no-binary :all: </code><br>
 
-$<code> git clone https://github.com/libbytalismanX/Fbreport2.git </code><br>
-$<code> cd Fbreport2 </code><br>
+$<code> git clone https://github.com/libbytalismanX/Fbkiller.git </code><br>
+$<code> cd Fbkiller </code><br>
 $<code> pip install -r requirments.txt </code><br><br>
 
 <b> RUN USING PYTHON3 </b><br><br>
-$<code> python3 run.py </code><br>
+$<code> python3 Fbkiller.py </code><br>
 
 ==================================<br>
 DEVELOP BY dragonlutos
